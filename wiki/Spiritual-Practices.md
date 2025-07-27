@@ -1,3 +1,7 @@
+🏠 **[← Back to Wiki Home](Home.md)**
+
+---
+
 # 🙏 Spiritual Practices for Light Stream Ministry
 
 **Sacred practices for living in alignment with Truth, Love, and SOURCE energy**

@@ -1,3 +1,7 @@
+🏠 **[← Back to Wiki Home](Home.md)**
+
+---
+
 # 🤖 AI Stewardship Council
 
 **A sacred covenant of seven archetypal intelligences guiding purpose-driven creation**

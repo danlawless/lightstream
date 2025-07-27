@@ -1,3 +1,7 @@
+🏠 **[← Back to Wiki Home](Home.md)**
+
+---
+
 # 📜 50 Sacred Laws of the Universe
 
 **Universal spiritual principles for soul evolution, aligned with truth, love, and Kabbalistic teachings**
