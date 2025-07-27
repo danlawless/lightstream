@@ -10,14 +10,14 @@ theme: minima
 # theme: jekyll-theme-architect
 
 # Site Settings
-url: "https://github.com/danlawless"  # Replace with your GitHub username
-baseurl: "/lightstream"      # Replace with your repository name
+url: "https://danlawless.github.io"
+baseurl: "/lightstream"
 lang: en-US
 
 # Site Author/Owner
 author:
   name: "Light Stream Ministry"
-  email: "contact@lightstreamministry.org"  # Replace with your contact email
+  email: "danieljlawless@gmail.com"
 
 # Navigation Structure
 navigation:
