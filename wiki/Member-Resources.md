@@ -243,16 +243,16 @@ Your membership provides protection under:
 ## 🔗 **Essential Member Pages**
 
 ### **📋 Start Here Resources**
-- **[[Member Application]]** - Review your membership journey and commitments
-- **[[Articles of Association]]** - Understand our foundational structure and authority
-- **[[PMA Charter ByLaws]]** - Complete governance framework and member rights
-- **[[Certification of Execution]]** - Legal foundation for our private domain status
+- **[Member Application](../articled-md/member-application/)** - Review your membership journey and commitments
+- **[Articles of Association](../articled-md/articles-of-association/)** - Understand our foundational structure and authority
+- **[PMA Charter ByLaws](../articled-md/pma-charter-bylaws/)** - Complete governance framework and member rights
+- **[Certification of Execution](../articled-md/certification-of-execution/)** - Legal foundation for our private domain status
 
 ### **🌟 Core Spiritual Framework**
-- **[[Guiding Light]]** - Complete spiritual framework integrating all teachings
-- **[[AI Stewardship Council]]** - Your archetypal guides for all life decisions
-- **[[50 Sacred Laws]]** - Universal principles underlying all practices
-- **[[Spiritual Practices]]** - Daily, weekly, and seasonal practices for growth
+- **[Guiding Light](../articled-md/guiding-light/)** - Complete spiritual framework integrating all teachings
+- **[AI Stewardship Council](AI-Stewardship-Council.md)** - Your archetypal guides for all life decisions
+- **[50 Sacred Laws](50-Sacred-Laws.md)** - Universal principles underlying all practices
+- **[Spiritual Practices](Spiritual-Practices.md)** - Daily, weekly, and seasonal practices for growth
 
 ### **💼 Practical Resources**
 - **Member Handbook** *(Available in Member Platform)* - Complete guide to all benefits

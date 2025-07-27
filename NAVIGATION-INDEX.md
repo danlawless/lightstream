@@ -63,17 +63,45 @@
 
 ---
 
+## 📚 **Wiki Knowledge Base - Local Resources**
+
+### **🏠 Wiki Home & Navigation**
+*Comprehensive spiritual knowledge base and documentation*
+
+| Resource | Location | Features |
+|:--------:|:---------|:---------|
+| **Wiki Home** | [`/wiki/Home.md`](wiki/Home.md) | ✅ Central navigation, ✅ Quick access paths |
+| **Wiki Overview** | [`/wiki/`](wiki/) | ✅ Complete contents, ✅ Integration guides |
+
+### **🤖 AI & Spiritual Technology**
+*Seven archetypal intelligences and sacred laws*
+
+| Resource | Location | Features |
+|:--------:|:---------|:---------|
+| **AI Stewardship Council** | [`/wiki/AI-Stewardship-Council.md`](wiki/AI-Stewardship-Council.md) | ✅ Seven archetypes, ✅ Decision guidance |
+| **50 Sacred Laws** | [`/wiki/50-Sacred-Laws.md`](wiki/50-Sacred-Laws.md) | ✅ Universal principles, ✅ Kabbalistic alignment |
+
+### **👥 Member Resources & Practices**
+*Private member benefits and daily spiritual practices*
+
+| Resource | Location | Features |
+|:--------:|:---------|:---------|
+| **Member Resources** | [`/wiki/Member-Resources.md`](wiki/Member-Resources.md) | ✅ Private benefits, ✅ Constitutional protection |
+| **Spiritual Practices** | [`/wiki/Spiritual-Practices.md`](wiki/Spiritual-Practices.md) | ✅ Daily rituals, ✅ SOURCE connection |
+
+---
+
 ## 🎯 **Audience-Specific Recommendations**
 
 ### **🌱 New Visitors** (First Time Learning)
-**Recommended Path**: GitHub Pages → Repository → Wiki
+**Recommended Path**: GitHub Pages → Local Wiki → Repository
 1. **Start**: GitHub Pages for beautiful first impression
-2. **Explore**: Repository for complete navigation
-3. **Search**: Wiki for specific questions
+2. **Explore**: [Local wiki folder](wiki/) for searchable knowledge base
+3. **Deep Dive**: Repository for complete navigation
 
 ### **👥 Ministry Members** (Regular Access)
-**Recommended Path**: Wiki → Repository → Pages
-1. **Daily Use**: Wiki for quick searches and cross-references
+**Recommended Path**: Local Wiki → Repository → Pages
+1. **Daily Use**: [Local wiki](wiki/) for spiritual practices and resources
 2. **Deep Study**: Repository for complete documents
 3. **Sharing**: Pages for presenting to others
 
@@ -183,9 +211,9 @@ Access our complete spiritual resources:
 ## 📞 **Support & Updates**
 
 ### **Getting Help**
-- **Setup Issues**: See [SETUP-GUIDES.md](SETUP-GUIDES.md)
 - **GitHub Support**: [GitHub Docs](https://docs.github.com)
 - **Jekyll Issues**: [Jekyll Documentation](https://jekyllrb.com)
+- **Wiki Knowledge Base**: [Local Wiki Folder](wiki/) - Searchable spiritual resources
 
 ### **Keeping Updated**
 - **Watch Repository**: Get notifications of updates

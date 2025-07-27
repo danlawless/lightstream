@@ -18,14 +18,15 @@ Founded on April 8, 2016, by Daniel and Jennifer Lawless as Co-Trustees, Light S
 
 | 🏛️ **Foundation** | 🌟 **Spiritual** | 👥 **Community** | 🤖 **Technology** |
 |:---:|:---:|:---:|:---:|
-| [Articles of Association](articled-md/articles-of-association/) | [Guiding Light Framework](articled-md/guiding-light/) | [Member Application](articled-md/member-application/) | [AI Stewardship Council](#-ai-stewardship-council-integration) |
-| [Legal Certification](articled-md/certification-of-execution/) | [50 Sacred Laws](#-the-50-sacred-laws-of-the-universe) | [PMA Charter](articled-md/pma-charter-bylaws/) | [Divine Technology](#technology-serving-spirit) |
+| [Articles of Association](articled-md/articles-of-association/) | [Guiding Light Framework](articled-md/guiding-light/) | [Member Application](articled-md/member-application/) | [AI Stewardship Council](wiki/AI-Stewardship-Council.md) |
+| [Legal Certification](articled-md/certification-of-execution/) | [50 Sacred Laws](wiki/50-Sacred-Laws.md) | [PMA Charter](articled-md/pma-charter-bylaws/) | [Wiki Knowledge Base](wiki/) |
 
 ### 🎯 **Start Here Paths**
 - **🌱 New Visitors**: [About → Guiding Light → Member Application](articled-md/guiding-light/)
 - **📋 Legal Overview**: [Articles → Certification → PMA Charter](articled-md/articles-of-association/)
-- **🤖 AI Integration**: [Stewardship Council → Sacred Laws → Decision Making](#-ai-stewardship-council-integration)
+- **🤖 AI Integration**: [Stewardship Council → Sacred Laws → Decision Making](wiki/AI-Stewardship-Council.md)
 - **👥 Join Community**: [Member Application → PMA Charter → Benefits](articled-md/member-application/)
+- **📚 Wiki Knowledge Base**: [Wiki Home → Sacred Laws → Spiritual Practices](wiki/)
 
 ---
 
@@ -52,7 +53,7 @@ Our spiritual framework encompasses **50 Sacred Laws** that provide comprehensiv
 
 From the **Law of Harmony** that teaches universal balance, to the **Law of Ritual** that builds divine resonance, these sacred principles offer a roadmap for authentic spiritual living in alignment with SOURCE energy.
 
-**📖 [Complete Laws Framework →](articled-md/guiding-light/)**
+**📖 [Complete Laws Framework →](wiki/50-Sacred-Laws.md)**
 
 ---
 
@@ -192,8 +193,8 @@ To explore membership in our spiritual community, begin with our [Member Applica
 | **🏛️ PMA Charter ByLaws** | Governance Charter | **[View Document](https://danlawless.github.io/lightstream/articled-md/pma-charter-bylaws/)** |
 
 ### ⚡ **Setup & Navigation Guides**
-- **👉 [Complete Setup Guide](SETUP-GUIDES.md)** - Technical setup instructions
 - **👉 [Master Navigation Index](NAVIGATION-INDEX.md)** - Cross-platform access guide
+- **👉 [Wiki Knowledge Base](wiki/)** - Searchable spiritual resources and practices
 
 ### 🔗 **Sharing Your Spiritual Framework**
 - **🌍 For General Public**: Share the [beautiful website](https://danlawless.github.io/lightstream)
