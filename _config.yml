@@ -1,0 +1,102 @@
+# Light Stream Ministry - GitHub Pages Configuration
+title: "Light Stream Ministry"
+description: "A Faith in SOURCE Based Private Ministerial Association - Where ancient wisdom meets modern spiritual technology"
+
+# Theme Configuration
+theme: minima
+# Alternative themes you can try:
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-architect
+
+# Site Settings
+url: "https://github.com/danlawless"  # Replace with your GitHub username
+baseurl: "/lightstream"      # Replace with your repository name
+lang: en-US
+
+# Site Author/Owner
+author:
+  name: "Light Stream Ministry"
+  email: "contact@lightstreamministry.org"  # Replace with your contact email
+
+# Navigation Structure
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Articles of Association"
+    url: "/articled-md/articles-of-association/"
+  - title: "Certification of Execution"
+    url: "/articled-md/certification-of-execution/"  
+  - title: "Guiding Light"
+    url: "/articled-md/guiding-light/"
+  - title: "Member Application"
+    url: "/articled-md/member-application/"
+  - title: "PMA Charter ByLaws"
+    url: "/articled-md/pma-charter-bylaws/"
+
+# Markdown Processing
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Plugin Configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections (for organizing documents)
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "articled-md"
+      type: "pages"
+    values:
+      layout: "page"
+      show_sidebar: true
+
+# Exclude files from site build
+exclude:
+  - articles-docx/
+  - articles-txt/
+  - "*.docx"
+  - "*.txt"
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Include specific files
+include:
+  - articled-md/
+
+# SEO Settings
+logo: /assets/images/light-stream-logo.png  # Add your logo here
+social:
+  name: Light Stream Ministry
+  links:
+    - https://github.com/danlawless/lightstream  # Replace with your repo URL
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Site verification (optional)
+# google_site_verification: "your-verification-code"
+
+# Footer content
+footer_content: "Copyright &copy; 2016-2024 Light Stream Ministry. Est. April 8, 2016 ∼ and so it is ∼" 
