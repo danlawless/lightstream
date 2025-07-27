@@ -8,8 +8,8 @@
 
 | Platform | Best For | URL Pattern |
 |:--------:|:--------:|:------------|
-| **📖 Repository** | Reading & Editing | `github.com/USERNAME/REPO/tree/main/articled-md/` |
-| **🌍 GitHub Pages** | Beautiful Presentation | `USERNAME.github.io/REPO/articled-md/` |
+| **📖 Repository** | Reading & Editing | `github.com/USERNAME/REPO/tree/main/articles/` |
+| **🌍 GitHub Pages** | Beautiful Presentation | `USERNAME.github.io/REPO/articles/` |
 | **📚 Wiki** | Search & Collaboration | `github.com/USERNAME/REPO/wiki/` |
 
 ---
@@ -21,8 +21,8 @@
 
 | Platform | Direct Link | Features |
 |:--------:|:------------|:---------|
-| **Repository** | [`/articled-md/articles-of-association/`](articled-md/articles-of-association/) | ✅ Source files, ✅ Edit history |
-| **Pages** | `/articled-md/articles-of-association/` | ✅ Beautiful layout, ✅ Mobile friendly |
+| **Repository** | [`/articles/articles-of-association/`](articles/articles-of-association/) | ✅ Source files, ✅ Edit history |
+| **Pages** | `/articles/articles-of-association/` | ✅ Beautiful layout, ✅ Mobile friendly |
 | **Wiki** | `/wiki/Articles-of-Association` | ✅ Searchable, ✅ Cross-linked |
 
 ### **Certification of Execution** ⚖️
@@ -30,8 +30,8 @@
 
 | Platform | Direct Link | Features |
 |:--------:|:------------|:---------|
-| **Repository** | [`/articled-md/certification-of-execution/`](articled-md/certification-of-execution/) | ✅ Source files, ✅ Edit history |
-| **Pages** | `/articled-md/certification-of-execution/` | ✅ Beautiful layout, ✅ Mobile friendly |
+| **Repository** | [`/articles/certification-of-execution/`](articles/certification-of-execution/) | ✅ Source files, ✅ Edit history |
+| **Pages** | `/articles/certification-of-execution/` | ✅ Beautiful layout, ✅ Mobile friendly |
 | **Wiki** | `/wiki/Certification-of-Execution` | ✅ Searchable, ✅ Cross-linked |
 
 ### **Guiding Light** 🌟
@@ -39,8 +39,8 @@
 
 | Platform | Direct Link | Features |
 |:--------:|:------------|:---------|
-| **Repository** | [`/articled-md/guiding-light/`](articled-md/guiding-light/) | ✅ Source files, ✅ Edit history |
-| **Pages** | `/articled-md/guiding-light/` | ✅ Beautiful layout, ✅ Mobile friendly |
+| **Repository** | [`/articles/guiding-light/`](articles/guiding-light/) | ✅ Source files, ✅ Edit history |
+| **Pages** | `/articles/guiding-light/` | ✅ Beautiful layout, ✅ Mobile friendly |
 | **Wiki** | `/wiki/Guiding-Light` | ✅ Searchable, ✅ Cross-linked |
 
 ### **Member Application** 👥
@@ -48,8 +48,8 @@
 
 | Platform | Direct Link | Features |
 |:--------:|:------------|:---------|
-| **Repository** | [`/articled-md/member-application/`](articled-md/member-application/) | ✅ Source files, ✅ Edit history |
-| **Pages** | `/articled-md/member-application/` | ✅ Beautiful layout, ✅ Mobile friendly |
+| **Repository** | [`/articles/member-application/`](articles/member-application/) | ✅ Source files, ✅ Edit history |
+| **Pages** | `/articles/member-application/` | ✅ Beautiful layout, ✅ Mobile friendly |
 | **Wiki** | `/wiki/Member-Application` | ✅ Searchable, ✅ Cross-linked |
 
 ### **PMA Charter ByLaws** 🏛️
@@ -57,8 +57,8 @@
 
 | Platform | Direct Link | Features |
 |:--------:|:------------|:---------|
-| **Repository** | [`/articled-md/pma-charter-bylaws/`](articled-md/pma-charter-bylaws/) | ✅ Source files, ✅ Edit history |
-| **Pages** | `/articled-md/pma-charter-bylaws/` | ✅ Beautiful layout, ✅ Mobile friendly |
+| **Repository** | [`/articles/pma-charter-bylaws/`](articles/pma-charter-bylaws/) | ✅ Source files, ✅ Edit history |
+| **Pages** | `/articles/pma-charter-bylaws/` | ✅ Beautiful layout, ✅ Mobile friendly |
 | **Wiki** | `/wiki/PMA-Charter-ByLaws` | ✅ Searchable, ✅ Cross-linked |
 
 ---

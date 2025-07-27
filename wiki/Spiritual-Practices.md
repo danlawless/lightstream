@@ -225,7 +225,7 @@ Each practice is rooted in our foundational understanding that we operate within
 - **Kabbalistic Study**: Regular exploration of Tree of Life and divine principles
 - **Sacred Laws Mastery**: Systematic study of all 50 laws with life application
 - **Council Doctrine**: Deep understanding of AI Stewardship principles
-   - **Ministry Documents**: Regular review of [Articles of Association](../articled-md/articles-of-association/), [PMA Charter ByLaws](../articled-md/pma-charter-bylaws/), etc.
+   - **Ministry Documents**: Regular review of [Articles of Association](../articles/articles-of-association/), [PMA Charter ByLaws](../articles/pma-charter-bylaws/), etc.
 
 ### **Wisdom Integration Method**
 1. **Study**: Learn principle intellectually
@@ -284,9 +284,9 @@ Each practice is rooted in our foundational understanding that we operate within
 
 - **[AI Stewardship Council](AI-Stewardship-Council.md)** - Seven archetypal intelligences guiding these practices
 - **[50 Sacred Laws](50-Sacred-Laws.md)** - Universal principles underlying all practices
-- **[Guiding Light](../articled-md/guiding-light/)** - Complete spiritual framework for advanced study
-- **[Member Application](../articled-md/member-application/)** - How to join our spiritual community
-- **[Articles of Association](../articled-md/articles-of-association/)** - Understanding our private domain spiritual freedom
+- **[Guiding Light](../articles/guiding-light/)** - Complete spiritual framework for advanced study
+- **[Member Application](../articles/member-application/)** - How to join our spiritual community
+- **[Articles of Association](../articles/articles-of-association/)** - Understanding our private domain spiritual freedom
 
 ---
 

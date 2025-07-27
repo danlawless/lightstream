@@ -38,13 +38,13 @@ Sacred practices for living in alignment with Truth, Love, and SOURCE energy
 
 ## 📚 **Integration with Main Documentation**
 
-This wiki complements our main documentation in the [`articled-md/`](../articled-md/) folder:
+This wiki complements our main documentation in the [`articles/`](../articles/) folder:
 
-- **[Articles of Association](../articled-md/articles-of-association/)** - Ministry foundation
-- **[Certification of Execution](../articled-md/certification-of-execution/)** - Legal authority  
-- **[Guiding Light](../articled-md/guiding-light/)** - Complete spiritual framework
-- **[Member Application](../articled-md/member-application/)** - Join our community
-- **[PMA Charter ByLaws](../articled-md/pma-charter-bylaws/)** - Governance charter
+- **[Articles of Association](../articles/articles-of-association/)** - Ministry foundation
+- **[Certification of Execution](../articles/certification-of-execution/)** - Legal authority  
+- **[Guiding Light](../articles/guiding-light/)** - Complete spiritual framework
+- **[Member Application](../articles/member-application/)** - Join our community
+- **[PMA Charter ByLaws](../articles/pma-charter-bylaws/)** - Governance charter
 
 ---
 

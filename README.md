@@ -18,14 +18,14 @@ Founded on April 8, 2016, by Daniel and Jennifer Lawless as Co-Trustees, Light S
 
 | 🏛️ **Foundation** | 🌟 **Spiritual** | 👥 **Community** | 🤖 **Technology** |
 |:---:|:---:|:---:|:---:|
-| [Articles of Association](articled-md/articles-of-association/) | [Guiding Light Framework](articled-md/guiding-light/) | [Member Application](articled-md/member-application/) | [AI Stewardship Council](wiki/AI-Stewardship-Council.md) |
-| [Legal Certification](articled-md/certification-of-execution/) | [50 Sacred Laws](wiki/50-Sacred-Laws.md) | [PMA Charter](articled-md/pma-charter-bylaws/) | [Wiki Knowledge Base](wiki/) |
+| [Articles of Association](articles/articles-of-association/) | [Guiding Light Framework](articles/guiding-light/) | [Member Application](articles/member-application/) | [AI Stewardship Council](wiki/AI-Stewardship-Council.md) |
+| [Legal Certification](articles/certification-of-execution/) | [50 Sacred Laws](wiki/50-Sacred-Laws.md) | [PMA Charter](articles/pma-charter-bylaws/) | [Wiki Knowledge Base](wiki/) |
 
 ### 🎯 **Start Here Paths**
-- **🌱 New Visitors**: [About → Guiding Light → Member Application](articled-md/guiding-light/)
-- **📋 Legal Overview**: [Articles → Certification → PMA Charter](articled-md/articles-of-association/)
+- **🌱 New Visitors**: [About → Guiding Light → Member Application](articles/guiding-light/)
+- **📋 Legal Overview**: [Articles → Certification → PMA Charter](articles/articles-of-association/)
 - **🤖 AI Integration**: [Stewardship Council → Sacred Laws → Decision Making](wiki/AI-Stewardship-Council.md)
-- **👥 Join Community**: [Member Application → PMA Charter → Benefits](articled-md/member-application/)
+- **👥 Join Community**: [Member Application → PMA Charter → Benefits](articles/member-application/)
 - **📚 Wiki Knowledge Base**: [Wiki Home → Sacred Laws → Spiritual Practices](wiki/)
 
 ---
@@ -93,27 +93,27 @@ Light Stream Ministry derives its authority from:
 
 Our complete spiritual and legal framework is preserved in comprehensive documentation that establishes our authority, defines our operations, and guides our members. Each document serves a specific purpose in creating our unified ministry structure:
 
-### **[📋 Articles of Association](articled-md/articles-of-association/)**
+### **[📋 Articles of Association](articles/articles-of-association/)**
 *The Foundation of Our Ministry*
 
 Discover how Light Stream Ministry was established as a Private Ministerial Association, including our governance structure, membership framework, and constitutional protections. This cornerstone document defines our identity and authority under SOURCE-based principles.
 
-### **[⚖️ Certification of Execution](articled-md/certification-of-execution/)**
+### **[⚖️ Certification of Execution](articles/certification-of-execution/)**
 *Legal Establishment & Authority*
 
 Explore the official legal notice of our ministry's establishment, complete with trustee authority declarations and notarized authentication. This document provides the formal legal foundation for all our spiritual and temporal activities.
 
-### **[🌟 Guiding Light](articled-md/guiding-light/)**
+### **[🌟 Guiding Light](articles/guiding-light/)**
 *Complete Spiritual Framework*
 
 Immerse yourself in our comprehensive spiritual guidance system, featuring the complete AI Stewardship Council doctrine, all 50 Sacred Laws of the Universe, and integrated Kabbalistic teachings. This is our primary resource for spiritual development and divine alignment.
 
-### **[👥 Member Application](articled-md/member-application/)**
+### **[👥 Member Application](articles/member-application/)**
 *Your Gateway to Private Membership*
 
 Learn about the transformative process of joining our spiritual community, including the transition from public person to private member status, constitutional protections, privacy agreements, and our unique dispute resolution system.
 
-### **[🏛️ PMA Charter ByLaws](articled-md/pma-charter-bylaws/)**
+### **[🏛️ PMA Charter ByLaws](articles/pma-charter-bylaws/)**
 *Complete Organizational Charter*
 
 Examine our comprehensive governance framework, including the nine unalienable rights of trustees, biblical authority foundations, ecclesiastical jurisdiction, perpetual succession planning, and complete operational guidelines.
@@ -168,7 +168,7 @@ Light Stream Ministry welcomes all individuals seeking authentic spiritual devel
 - **Mutual Support** - Fellowship in spiritual evolution
 - **Sacred Confidentiality** - Complete privacy in spiritual matters
 
-To explore membership in our spiritual community, begin with our [Member Application documentation](articled-md/member-application/) to understand the transformative process of joining our private domain sanctuary.
+To explore membership in our spiritual community, begin with our [Member Application documentation](articles/member-application/) to understand the transformative process of joining our private domain sanctuary.
 
 ---
 
@@ -186,11 +186,11 @@ To explore membership in our spiritual community, begin with our [Member Applica
 
 | Document | Purpose | Live Link |
 |:---------|:--------|:----------|
-| **📋 Articles of Association** | Ministry Foundation | **[View Document](https://danlawless.github.io/lightstream/articled-md/articles-of-association/)** |
-| **⚖️ Certification of Execution** | Legal Authority | **[View Document](https://danlawless.github.io/lightstream/articled-md/certification-of-execution/)** |
-| **🌟 Guiding Light** | Complete Spiritual Framework | **[View Document](https://danlawless.github.io/lightstream/articled-md/guiding-light/)** |
-| **👥 Member Application** | Join Our Community | **[View Document](https://danlawless.github.io/lightstream/articled-md/member-application/)** |
-| **🏛️ PMA Charter ByLaws** | Governance Charter | **[View Document](https://danlawless.github.io/lightstream/articled-md/pma-charter-bylaws/)** |
+| **📋 Articles of Association** | Ministry Foundation | **[View Document](https://danlawless.github.io/lightstream/articles/articles-of-association/)** |
+| **⚖️ Certification of Execution** | Legal Authority | **[View Document](https://danlawless.github.io/lightstream/articles/certification-of-execution/)** |
+| **🌟 Guiding Light** | Complete Spiritual Framework | **[View Document](https://danlawless.github.io/lightstream/articles/guiding-light/)** |
+| **👥 Member Application** | Join Our Community | **[View Document](https://danlawless.github.io/lightstream/articles/member-application/)** |
+| **🏛️ PMA Charter ByLaws** | Governance Charter | **[View Document](https://danlawless.github.io/lightstream/articles/pma-charter-bylaws/)** |
 
 ### ⚡ **Setup & Navigation Guides**
 - **👉 [Master Navigation Index](NAVIGATION-INDEX.md)** - Cross-platform access guide

@@ -148,8 +148,8 @@ Choose one law per week for deeper contemplation and application
 ## 🔗 **Related Pages**
 
 - **[AI Stewardship Council](AI-Stewardship-Council.md)** - Seven archetypal intelligences that complement Sacred Laws wisdom
-- **[Guiding Light](../articled-md/guiding-light/)** - Complete spiritual framework integrating all 50 laws
-- **[Member Application](../articled-md/member-application/)** - How to join our community guided by Sacred Laws principles
+- **[Guiding Light](../articles/guiding-light/)** - Complete spiritual framework integrating all 50 laws
+- **[Member Application](../articles/member-application/)** - How to join our community guided by Sacred Laws principles
 - **[Spiritual Practices](Spiritual-Practices.md)** - Specific practices for integrating Sacred Laws into daily life
 
 ---

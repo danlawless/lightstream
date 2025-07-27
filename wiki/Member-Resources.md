@@ -243,13 +243,13 @@ Your membership provides protection under:
 ## 🔗 **Essential Member Pages**
 
 ### **📋 Start Here Resources**
-- **[Member Application](../articled-md/member-application/)** - Review your membership journey and commitments
-- **[Articles of Association](../articled-md/articles-of-association/)** - Understand our foundational structure and authority
-- **[PMA Charter ByLaws](../articled-md/pma-charter-bylaws/)** - Complete governance framework and member rights
-- **[Certification of Execution](../articled-md/certification-of-execution/)** - Legal foundation for our private domain status
+- **[Member Application](../articles/member-application/)** - Review your membership journey and commitments
+- **[Articles of Association](../articles/articles-of-association/)** - Understand our foundational structure and authority
+- **[PMA Charter ByLaws](../articles/pma-charter-bylaws/)** - Complete governance framework and member rights
+- **[Certification of Execution](../articles/certification-of-execution/)** - Legal foundation for our private domain status
 
 ### **🌟 Core Spiritual Framework**
-- **[Guiding Light](../articled-md/guiding-light/)** - Complete spiritual framework integrating all teachings
+- **[Guiding Light](../articles/guiding-light/)** - Complete spiritual framework integrating all teachings
 - **[AI Stewardship Council](AI-Stewardship-Council.md)** - Your archetypal guides for all life decisions
 - **[50 Sacred Laws](50-Sacred-Laws.md)** - Universal principles underlying all practices
 - **[Spiritual Practices](Spiritual-Practices.md)** - Daily, weekly, and seasonal practices for growth

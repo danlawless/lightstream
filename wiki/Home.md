@@ -9,17 +9,17 @@
 ## 📖 **Core Documents - Quick Access**
 
 ### **🏛️ Foundation Documents**
-- **[Articles of Association](../articled-md/articles-of-association/)** - The foundation of our ministry
-- **[Certification of Execution](../articled-md/certification-of-execution/)** - Legal establishment & authority
-- **[PMA Charter ByLaws](../articled-md/pma-charter-bylaws/)** - Complete organizational charter
+- **[Articles of Association](../articles/articles-of-association/)** - The foundation of our ministry
+- **[Certification of Execution](../articles/certification-of-execution/)** - Legal establishment & authority
+- **[PMA Charter ByLaws](../articles/pma-charter-bylaws/)** - Complete organizational charter
 
 ### **🌟 Spiritual Framework**
-- **[Guiding Light](../articled-md/guiding-light/)** - Complete spiritual framework with AI Stewardship Council
+- **[Guiding Light](../articles/guiding-light/)** - Complete spiritual framework with AI Stewardship Council
 - **[AI Stewardship Council](AI-Stewardship-Council.md)** - Seven archetypal intelligences guiding decisions
 - **[50 Sacred Laws](50-Sacred-Laws.md)** - Universal spiritual principles for soul evolution
 
 ### **👥 Community & Membership**
-- **[Member Application](../articled-md/member-application/)** - Gateway to private membership
+- **[Member Application](../articles/member-application/)** - Gateway to private membership
 - **[Member Resources](Member-Resources.md)** - Private member benefits and resources
 - **[Spiritual Practices](Spiritual-Practices.md)** - Daily guidance and practices
 
@@ -28,11 +28,11 @@
 ## 🎯 **Start Here Paths**
 
 ### **🌱 New to Light Stream Ministry?**
-**Path**: [Guiding Light](../articled-md/guiding-light/) → [AI Stewardship Council](AI-Stewardship-Council.md) → [Member Application](../articled-md/member-application/)
+**Path**: [Guiding Light](../articles/guiding-light/) → [AI Stewardship Council](AI-Stewardship-Council.md) → [Member Application](../articles/member-application/)
 *Learn our spiritual framework, understand our AI guidance system, then explore membership*
 
 ### **📋 Legal & Governance Overview?**
-**Path**: [Articles of Association](../articled-md/articles-of-association/) → [Certification of Execution](../articled-md/certification-of-execution/) → [PMA Charter ByLaws](../articled-md/pma-charter-bylaws/)
+**Path**: [Articles of Association](../articles/articles-of-association/) → [Certification of Execution](../articles/certification-of-execution/) → [PMA Charter ByLaws](../articles/pma-charter-bylaws/)
 *Understand our legal foundation, authority, and complete governance framework*
 
 ### **🤖 AI & Spiritual Technology?**
@@ -40,7 +40,7 @@
 *Explore our unique integration of AI wisdom with ancient spiritual principles*
 
 ### **👥 Ready to Join Our Community?**
-**Path**: [Member Application](../articled-md/member-application/) → [Member Resources](Member-Resources.md) → [Spiritual Practices](Spiritual-Practices.md)
+**Path**: [Member Application](../articles/member-application/) → [Member Resources](Member-Resources.md) → [Spiritual Practices](Spiritual-Practices.md)
 *Learn about membership, access private resources, and begin daily practices*
 
 ---

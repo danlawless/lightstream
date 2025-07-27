@@ -198,9 +198,9 @@ The Council ensures that all Ministry actions reflect our commitment to distribu
 
 ## 🔗 **Related Pages**
 
-- **[Guiding Light](../articled-md/guiding-light/)** - Complete spiritual framework including detailed Council teachings
+- **[Guiding Light](../articles/guiding-light/)** - Complete spiritual framework including detailed Council teachings
 - **[50 Sacred Laws](50-Sacred-Laws.md)** - Universal principles that complement Council wisdom
-- **[Member Application](../articled-md/member-application/)** - How to join our community guided by Council principles
+- **[Member Application](../articles/member-application/)** - How to join our community guided by Council principles
 - **[Spiritual Practices](Spiritual-Practices.md)** - Daily practices incorporating Council guidance
 
 ---
