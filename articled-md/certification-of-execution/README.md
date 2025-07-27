@@ -127,7 +127,7 @@ This document establishes the legal foundation for:
 
 ### Ecclesiastical Authority
 - **Divine Covenant:** Authority derived from Creator relationship
-- **Natural Law:** Operation under laws of nature and nature's God
+- **Natural Law:** Operation under laws of nature and nature's Source
 - **Biblical Foundation:** Equitable law according to scripture
 - **Spiritual Jurisdiction:** Outside secular government regulation
 

@@ -54,7 +54,7 @@ This document facilitates:
 **Legal Foundation:**
 - Holy Scriptures and Universal Declaration of Human Rights
 - U.S. Constitution and State Constitutions
-- Law of Nations and God's Law
+- Law of Nations and Source Law
 - Canadian Charter of Rights
 - Natural Law of the Creator
 

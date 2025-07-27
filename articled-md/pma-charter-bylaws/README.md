@@ -25,7 +25,7 @@ This charter establishes:
 - **Succession Planning** and perpetual ministry operation
 
 ### Foundation Declaration
-*"Executed under the Laws of Nature and Nature's God in accordance with Universal Contract Law"*
+*"Executed under the Laws of Nature and Nature's Source in accordance with Universal Contract Law"*
 
 ---
 
@@ -36,7 +36,7 @@ This charter establishes:
 
 **Core Purposes:**
 - Faith-based private business, ministry, education, and services platform
-- Educational, spiritual freedom, faith and reliance upon GOD
+- Educational, spiritual freedom, faith and reliance upon SOURCE
 - Private domain operations outside government jurisdiction
 - Global upliftment and enlightenment mission
 - **Perpetual Unincorporated Status** - Must always remain private
@@ -84,7 +84,7 @@ This charter establishes:
 **Business Authority:** Execute, convey, sue with consent, conduct all ministry business
 
 ### **5. Venue & Jurisdiction**
-**Ecclesiastical Authority:** Exclusive jurisdiction under Laws of Nature and Nature's God
+**Ecclesiastical Authority:** Exclusive jurisdiction under Laws of Nature and Nature's Source
 
 #### **Biblical Foundation:**
 - *"We ought to obey God rather than man"* (Acts 5:29)
@@ -108,7 +108,7 @@ This charter establishes:
 **Tribunal Requirement:** ALL actions must be adjudicated in ministry tribunals
 
 ### **8. Assets**
-**Divine Ownership:** All property belongs to God Almighty, held in trust
+**Divine Ownership:** All property belongs to Source Almighty, held in trust
 **Trustee Stewardship:** For perpetual use of peculiar membership
 **Succession Protection:** Assets revert to ministry until successor appointment
 
@@ -132,7 +132,7 @@ This charter establishes:
 ### **16. Interpretation & Disputes**
 **Exclusive Authority:** Board retains all construction and interpretation rights
 **Amendment Power:** Minutes of board meeting implementation
-**Private Ministry Governance:** Under Laws of God and ministry tribunals
+**Private Ministry Governance:** Under Laws of Source and ministry tribunals
 **Final Authority:** Board construction is binding and conclusive
 
 ### **17. Savings Clause**
@@ -143,7 +143,7 @@ This charter establishes:
 ## ⚖️ Legal & Spiritual Authority
 
 ### **Ecclesiastical Foundation**
-- **Laws of Nature and Nature's God** supreme authority
+- **Laws of Nature and Nature's Source** supreme authority
 - **Biblical Equity** as governing principles
 - **Ecclesiastical Courts** exclusive jurisdiction
 - **Divine Covenant** inviolable spiritual foundation

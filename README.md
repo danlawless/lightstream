@@ -1,5 +1,5 @@
 # Light Stream Ministry
-**A Faith in GOD Based Private Ministerial Association**
+**A Faith in SOURCE Based Private Ministerial Association**
 
 ---
 

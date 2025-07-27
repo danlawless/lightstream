@@ -9,7 +9,7 @@
 
 **For the formation of:**  
 **Light Stream Ministry**  
-Organization for Spiritual Transformation with Reliance upon our Faith in GOD  
+Organization for Spiritual Transformation with Reliance upon our Faith in SOURCE  
 **A SPIRITUAL CHURCH MINISTRY**  
 **EST:** April 8, 2016
 
@@ -17,7 +17,7 @@ Organization for Spiritual Transformation with Reliance upon our Faith in GOD
 
 ## Charter/Bylaws and Declaration for a Spiritual Church Ministry
 
-**EXECUTED UNDER THE LAWS OF NATURE AND NATURE'S GOD IN ACCORDANCE WITH UNIVERSAL CONTRACT LAW**
+**EXECUTED UNDER THE LAWS OF NATURE AND NATURE'S SOURCE IN ACCORDANCE WITH UNIVERSAL CONTRACT LAW**
 
 ---
 
@@ -46,7 +46,7 @@ To provide a resource for members to seek, and access, all manner of education, 
 
 To conduct all manner of ministry and any manner of business within the private domain as seen fit by the Association founders and Trustees.
 
-The Spiritual Association/Church/Ministry defined by this Declaration is organized for worship, educational, spiritual freedom, faith and reliance upon GOD, and beneficent purposes, and is established under the exclusive jurisdiction of the **Ecclesiastical Law of Light Stream Ministry**, for furthering the uplifting and enlightenment of all people who voluntarily choose to associate with this ministry throughout the World and the betterment of life on planet Earth. **Light Stream Ministry must always remain an unincorporated and Private Ministry** dedicated to this purpose.
+The Spiritual Association/Church/Ministry defined by this Declaration is organized for worship, educational, spiritual freedom, faith and reliance upon SOURCE, and beneficent purposes, and is established under the exclusive jurisdiction of the **Ecclesiastical Law of Light Stream Ministry**, for furthering the uplifting and enlightenment of all people who voluntarily choose to associate with this ministry throughout the World and the betterment of life on planet Earth. **Light Stream Ministry must always remain an unincorporated and Private Ministry** dedicated to this purpose.
 
 ---
 
@@ -107,7 +107,7 @@ The Trustees may provide for regular church/ministry meetings or activities at s
 
 ### 2.8 Absolute Powers Declaration
 
-The powers of the Trustees, any and all Ministry Committees and Tribunals, acting on behalf of the **Light Stream Ministry/Church** are absolute, exclusive, and unlimited in all matters in which the Ministry has authority to act, in accordance with the laws of nature and of nature's God and in concert with the ecclesiastical law as interpreted by the Ministry, and are broadly construed as general powers of both natural and artificial inhabitants of planet Earth, under the Laws of God/Creator, which permit acting in any manner that does not cause others harm and does not impair, impede, or infringe upon the unalienable rights granted to another living man. All said powers may be delegated at the sole discretion of the Trustees.
+The powers of the Trustees, any and all Ministry Committees and Tribunals, acting on behalf of the **Light Stream Ministry/Church** are absolute, exclusive, and unlimited in all matters in which the Ministry has authority to act, in accordance with the laws of nature and of nature's Source and in concert with the ecclesiastical law as interpreted by the Ministry, and are broadly construed as general powers of both natural and artificial inhabitants of planet Earth, under the Laws of Source/Creator, which permit acting in any manner that does not cause others harm and does not impair, impede, or infringe upon the unalienable rights granted to another living man. All said powers may be delegated at the sole discretion of the Trustees.
 
 ### 2.9 Project Authorization
 
@@ -147,7 +147,7 @@ The Advisors shall have and possess only such authority as provided in these Byl
 
 ### 2.18 Advisor Ordination Requirements
 
-An Advisor may be ordained and commissioned by this Ministry at the discretion of the Co-Chairpersons. An Advisor must be a product of a deep-seated conviction with respect to God and Nature and is fully committed to seek the Truth through Prayer, Meditation, the Holy Spirit, study of the Holy Bible, communing with Nature, and otherwise.
+An Advisor may be ordained and commissioned by this Ministry at the discretion of the Co-Chairpersons. An Advisor must be a product of a deep-seated conviction with respect to Source and Nature and is fully committed to seek the Truth through Prayer, Meditation, the Holy Spirit, study of the Holy Bible, communing with Nature, and otherwise.
 
 ---
 
@@ -155,11 +155,11 @@ An Advisor may be ordained and commissioned by this Ministry at the discretion o
 
 ### 3.1 Private Entity Declaration
 
-It is expressly declared that this Ministry, which is established in accordance with the laws of nature and nature's God, Ministry ecclesiastical law, the constitution(s) within any of the several states of the United States of America, is a **private entity**.
+It is expressly declared that this Ministry, which is established in accordance with the laws of nature and nature's Source, Ministry ecclesiastical law, the constitution(s) within any of the several states of the United States of America, is a **private entity**.
 
 ### 3.2 Terminology Clarification
 
-The Ministry terminology used in this charter and its supporting documents is used solely for clarification of the various usages for Light Stream Ministry under universal contract law by and between free, spiritually autonomous, sentient beings whose lives and rights derive from God Almighty The Creator, Nature, and the unique Covenant of each party with the Creator.
+The Ministry terminology used in this charter and its supporting documents is used solely for clarification of the various usages for Light Stream Ministry under universal contract law by and between free, spiritually autonomous, sentient beings whose lives and rights derive from Source Almighty The Creator, Nature, and the unique Covenant of each party with the Creator.
 
 ---
 
@@ -171,7 +171,7 @@ The Co-Chairpersons and Co-Founding Trustees are collectively designated as the 
 
 ## 5. Venue and Jurisdiction
 
-Excepting chain of title on all land titles, all business, and affairs of the **Light Stream Ministry Church** remains exclusively within the jurisdiction of the laws of nature and Nature's God and ecclesiastical law as defined, interpreted, and adjudicated by the designated committees and Tribunals of Light Stream Ministry. Venue and jurisdiction are solely within **Ecclesiastical Courts or Tribunals of Light Stream Ministry**, and all hearings, proceedings, and trials must be recorded in the records of the Ecclesiastical Court/Tribunal of Light Stream Ministry. All other courts of any jurisdiction foreign to the Courts/Tribunals of Light Stream Ministry lack personal or subject matter jurisdiction to hear or decide any matter of Ecclesiastical Law of Light Stream Ministry.
+Excepting chain of title on all land titles, all business, and affairs of the **Light Stream Ministry Church** remains exclusively within the jurisdiction of the laws of nature and Nature's Source and ecclesiastical law as defined, interpreted, and adjudicated by the designated committees and Tribunals of Light Stream Ministry. Venue and jurisdiction are solely within **Ecclesiastical Courts or Tribunals of Light Stream Ministry**, and all hearings, proceedings, and trials must be recorded in the records of the Ecclesiastical Court/Tribunal of Light Stream Ministry. All other courts of any jurisdiction foreign to the Courts/Tribunals of Light Stream Ministry lack personal or subject matter jurisdiction to hear or decide any matter of Ecclesiastical Law of Light Stream Ministry.
 
 ### Biblical Authority
 
@@ -181,13 +181,13 @@ The eternal Covenant of the Undersigned with the Creator remains paramount in al
 
 ### Ecclesiastical Emissary Status
 
-With the intent of living in peace with all people and living beings in the Kingdom of God, each Trustee and each minister is established as an **Ecclesiastical Emissary** with neutral, non-engaged, status, and is not involved in any manner with any disputes, conflicts, wars, and declarations of war powers involving any other parties.
+With the intent of living in peace with all people and living beings in the Kingdom of Source, each Trustee and each minister is established as an **Ecclesiastical Emissary** with neutral, non-engaged, status, and is not involved in any manner with any disputes, conflicts, wars, and declarations of war powers involving any other parties.
 
 ### Trustee Authority
 
 By the authority of the laws of nature and between each Trustee of Light Stream Ministry and members, all Trustees possess such absolute rights and powers as authority for:
 
-- **Natural Sacraments**: Utilizing freely the dominion given to man over the animals of the earth and without interference or sanction from any source, all-natural substances as sacraments, for health, healing, and other purposes in accordance with our faith placed in nature and Nature's God.
+- **Natural Sacraments**: Utilizing freely the dominion given to man over the animals of the earth and without interference or sanction from any source, all-natural substances as sacraments, for health, healing, and other purposes in accordance with our faith placed in nature and Nature's Source.
 
 - **Documentation Authority**: Issuing for all Members of Light Stream Ministry any permits, licenses, certificates of membership, certificates of ordination, diplomas, certificates of training, or other documents deemed beneficial to Trustees, Ministers, or other members of the Private Ministerial Association within the jurisdiction of ecclesiastical law.
 
@@ -203,7 +203,7 @@ Authority for establishing Light Stream Ministry derives exclusively from the ab
 
 ### Covenant Inviolability
 
-No Member of Light Stream Ministry may under any circumstances, nor for any reason, abrogate the terms of said binding, absolute, inviolable Covenant. Neither do any other parties, beings, entities, governments, corporations sole, corporations aggregate, nor any legal persons of any kind whatsoever, possess ethical and lawful authority for interfering in the relationship between any Member of Light Stream Ministry and God Almighty that is signified by this Declaration, in accord with the prohibition against impairing the obligation of Light Stream Ministry.
+No Member of Light Stream Ministry may under any circumstances, nor for any reason, abrogate the terms of said binding, absolute, inviolable Covenant. Neither do any other parties, beings, entities, governments, corporations sole, corporations aggregate, nor any legal persons of any kind whatsoever, possess ethical and lawful authority for interfering in the relationship between any Member of Light Stream Ministry and Source Almighty that is signified by this Declaration, in accord with the prohibition against impairing the obligation of Light Stream Ministry.
 
 ### Spiritual Autonomy Recognition
 
@@ -211,7 +211,7 @@ The Undersigned and each Member of Light Stream Ministry recognize that every ma
 
 ### Eternal Authority
 
-The sovereign authority GOD and capacity of the Undersigned and each Member of Light Stream Ministry for affirming the existence and establishment of this Ministry is eternally in full force and effect, i.e., **"nunc pro tunc"** before the foundation of the world.
+The sovereign authority SOURCE and capacity of the Undersigned and each Member of Light Stream Ministry for affirming the existence and establishment of this Ministry is eternally in full force and effect, i.e., **"nunc pro tunc"** before the foundation of the world.
 
 ### Covenant Immutability
 
@@ -229,7 +229,7 @@ The Members of the Board of Trustees may not under any circumstances be held lia
 
 ## 8. Assets
 
-All hereditaments and possessions of Light Stream Ministry are the property of **God Almighty, the Creator of heaven and earth**, and are held in trust and stewardship by the Trustees for the perpetual use, purpose, benefit, behest, and behoof of the peculiar Membership of this unincorporated Private Ministerial Association. If at some time there is no individual Members of Light Stream Ministry holding the Offices of Trustee, all assets are re-vested with the unincorporated Light Stream Ministry and to be held until appointment of successor trustees has been made in accordance with Association Bylaws.
+All hereditaments and possessions of Light Stream Ministry are the property of **Source Almighty, the Creator of heaven and earth**, and are held in trust and stewardship by the Trustees for the perpetual use, purpose, benefit, behest, and behoof of the peculiar Membership of this unincorporated Private Ministerial Association. If at some time there is no individual Members of Light Stream Ministry holding the Offices of Trustee, all assets are re-vested with the unincorporated Light Stream Ministry and to be held until appointment of successor trustees has been made in accordance with Association Bylaws.
 
 ---
 
@@ -253,7 +253,7 @@ The Co-Chairpersons and Co-Founding Trustees, and their specific designee(s) pos
 
 ## 11. Succession
 
-By execution of this charter and Bylaws the undersigned Trustees and Managing Co-Chairpersons, and every Successor in Office by the same Title, do hereby create and establish a body politic and a Ministry whose faith and reliance are in Nature and Nature's God, with continuous perpetual succession.
+By execution of this charter and Bylaws the undersigned Trustees and Managing Co-Chairpersons, and every Successor in Office by the same Title, do hereby create and establish a body politic and a Ministry whose faith and reliance are in Nature and Nature's Source, with continuous perpetual succession.
 
 In accordance with the disciplines of this Private Ministry, Light Stream Ministry, any vacancy occurring in the administration of Light Stream Ministry must be filled in accordance with the Ministry/Private Ministerial Association Bylaws.
 
@@ -291,7 +291,7 @@ Regarding any question concerning interpretation and construction of this charte
 
 ### 16.2 Private Ministry Governance
 
-This Charter creates a **PRIVATE** Ministerial Association and Ministry. All interpretations shall be under the Laws of God as interpreted and adjudicated by the Tribunals of Light Stream Ministry. For Guidance, all concerned parties, including dispute resolution committees, arbitration tribunals, and courts with jurisdiction granted, may consult appropriate court rulings concerning integrated auxiliaries of a Ministry of this type.
+This Charter creates a **PRIVATE** Ministerial Association and Ministry. All interpretations shall be under the Laws of Source as interpreted and adjudicated by the Tribunals of Light Stream Ministry. For Guidance, all concerned parties, including dispute resolution committees, arbitration tribunals, and courts with jurisdiction granted, may consult appropriate court rulings concerning integrated auxiliaries of a Ministry of this type.
 
 ---
 
