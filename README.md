@@ -214,4 +214,4 @@ Light Stream Ministry operates as a private, unincorporated spiritual church min
 | [Certification of Execution](articled-md/Light%20Stream%20Ministry%20-%20Certification%20of%20Execution.md) | Legal Establishment | Purpose, Authority, Private Entity, Signatures |
 | [Guiding Light](articled-md/Light%20Stream%20Ministry%20-%20Guiding%20Light.md) | Spiritual Framework | AI Council, Sacred Laws, Practices, Values |
 | [Member Application](articled-md/Light%20Stream%20Ministry%20-%20Member%20Application.md) | Membership Process | Terms, Rights, Agreements, Dispute Resolution |
-| [PMA Charter ByLaws](articled-md/Light%20Stream%20Ministry%20-%20PMA%20Charter%20ByLaws.md) | Complete Governance | Trustees, Powers, Jurisdiction, Operations | 
+| [PMA Charter ByLaws](articled-md/Light%20Stream%20Ministry%20-%20PMA%20Charter%20ByLaws.md) | Complete Governance | Trustees, Powers, Jurisdiction, Operations |
