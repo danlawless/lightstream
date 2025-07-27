@@ -17,13 +17,17 @@ Light Stream Ministry is a spiritual and philosophical framework designed to gui
 This repository contains the complete foundational documents for Light Stream Ministry, organized by format:
 
 ### 📝 Markdown Documents (`articled-md/`)
-*Clean, formatted versions for easy reading and reference*
+*Clean, formatted versions with individual README guides for comprehensive navigation*
 
-- **[Articles of Association](articled-md/Light%20Stream%20Ministry%20-%20Articles%20of%20Association.md)** - Foundation document establishing the ministry's structure, membership, and governance
-- **[Certification of Execution](articled-md/Light%20Stream%20Ministry%20-%20Certification%20of%20Execution.md)** - Legal establishment and trustee authority documentation  
-- **[Guiding Light](articled-md/Light%20Stream%20Ministry%20-%20Guiding%20Light.md)** - Comprehensive spiritual framework including the 50 Sacred Laws of the Universe and AI Stewardship Council
-- **[Member Application](articled-md/Light%20Stream%20Ministry%20-%20Member%20Application.md)** - Complete membership agreement and terms
-- **[PMA Charter ByLaws](articled-md/Light%20Stream%20Ministry%20-%20PMA%20Charter%20ByLaws.md)** - Detailed organizational charter and operational bylaws
+**[📚 Document Library Overview](articled-md/README.md)** - Complete navigation guide to all documents
+
+- **[📋 Articles of Association](articled-md/articles-of-association/)** - Foundation document with structure, membership, and governance
+- **[⚖️ Certification of Execution](articled-md/certification-of-execution/)** - Legal establishment and trustee authority documentation  
+- **[🌟 Guiding Light](articled-md/guiding-light/)** - Complete spiritual framework with AI Stewardship Council and 50 Sacred Laws
+- **[👥 Member Application](articled-md/member-application/)** - Membership agreement and private transition process
+- **[🏛️ PMA Charter ByLaws](articled-md/pma-charter-bylaws/)** - Comprehensive organizational charter and operational framework
+
+*Each document is organized in its own folder with detailed README overview and full document access.*
 
 ### 📄 Text Documents (`articles-txt/`)
 *Original source text files*
@@ -208,10 +212,12 @@ Light Stream Ministry operates as a private, unincorporated spiritual church min
 
 ## 📄 Document Navigation
 
-| Document | Purpose | Key Sections |
-|----------|---------|--------------|
-| [Articles of Association](articled-md/Light%20Stream%20Ministry%20-%20Articles%20of%20Association.md) | Foundation & Structure | Name, Purpose, Members, Trustees, Meetings |
-| [Certification of Execution](articled-md/Light%20Stream%20Ministry%20-%20Certification%20of%20Execution.md) | Legal Establishment | Purpose, Authority, Private Entity, Signatures |
-| [Guiding Light](articled-md/Light%20Stream%20Ministry%20-%20Guiding%20Light.md) | Spiritual Framework | AI Council, Sacred Laws, Practices, Values |
-| [Member Application](articled-md/Light%20Stream%20Ministry%20-%20Member%20Application.md) | Membership Process | Terms, Rights, Agreements, Dispute Resolution |
-| [PMA Charter ByLaws](articled-md/Light%20Stream%20Ministry%20-%20PMA%20Charter%20ByLaws.md) | Complete Governance | Trustees, Powers, Jurisdiction, Operations |
+| Document | Purpose | Key Features | Quick Access |
+|----------|---------|--------------|--------------|
+| [📋 Articles of Association](articled-md/articles-of-association/) | Foundation & Structure | Trustee governance, member rights, AI integration | [📖 Overview](articled-md/articles-of-association/README.md) |
+| [⚖️ Certification of Execution](articled-md/certification-of-execution/) | Legal Establishment | Authority declaration, private entity status | [📖 Overview](articled-md/certification-of-execution/README.md) |
+| [🌟 Guiding Light](articled-md/guiding-light/) | Spiritual Framework | AI Council, 50 Sacred Laws, practices | [📖 Overview](articled-md/guiding-light/README.md) |
+| [👥 Member Application](articled-md/member-application/) | Membership Process | Privacy protection, dispute resolution | [📖 Overview](articled-md/member-application/README.md) |
+| [🏛️ PMA Charter ByLaws](articled-md/pma-charter-bylaws/) | Complete Governance | Nine unalienable rights, biblical authority | [📖 Overview](articled-md/pma-charter-bylaws/README.md) |
+
+**[📚 Complete Document Library Guide](articled-md/README.md)** - Comprehensive navigation with document relationships and integration features
