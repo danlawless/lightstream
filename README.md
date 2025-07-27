@@ -173,21 +173,33 @@ To explore membership in our spiritual community, begin with our [Member Applica
 
 ## 📚 **Documentation Access Hub**
 
-### 🌐 **Three Ways to Access Our Documentation**
-- **📖 Repository**: You're here! Complete navigation and markdown source files
-- **🌍 Website**: [GitHub Pages Site](../../) - Beautiful web interface
-- **📚 Wiki**: [GitHub Wiki](../../wiki) - Searchable knowledge base
+### 🌟 **Live Access Links - Choose Your Experience**
 
-### ⚡ **Quick Setup**
-**👉 [Complete Setup Guide](SETUP-GUIDES.md)** - Enable all three systems in 15 minutes!
+| Platform | Best For | Direct Access |
+|:--------:|:---------|:-------------|
+| **🌍 Website** | Beautiful Reading | **[danlawless.github.io/lightstream](https://danlawless.github.io/lightstream)** |
+| **📖 Repository** | Source & Editing | **[github.com/danlawless/lightstream](https://github.com/danlawless/lightstream)** |  
+| **📚 Wiki** | Search & Collaborate | **[github.com/danlawless/lightstream/wiki](https://github.com/danlawless/lightstream/wiki)** |
 
-### 🧭 **Master Navigation**
-**👉 [Navigation Index](NAVIGATION-INDEX.md)** - Your complete cross-platform access guide!
+### 🎯 **Direct Document Links** (GitHub Pages - Beautiful Interface)
 
-### 🔗 **Sharing & Collaboration**
-- **🔓 Public Access**: Repository and GitHub Pages (anyone can view)
-- **👥 Collaborative Editing**: Wiki (controlled access for trusted members)
-- **📧 Direct Sharing**: Link to specific documents or sections
+| Document | Purpose | Live Link |
+|:---------|:--------|:----------|
+| **📋 Articles of Association** | Ministry Foundation | **[View Document](https://danlawless.github.io/lightstream/articled-md/articles-of-association/)** |
+| **⚖️ Certification of Execution** | Legal Authority | **[View Document](https://danlawless.github.io/lightstream/articled-md/certification-of-execution/)** |
+| **🌟 Guiding Light** | Complete Spiritual Framework | **[View Document](https://danlawless.github.io/lightstream/articled-md/guiding-light/)** |
+| **👥 Member Application** | Join Our Community | **[View Document](https://danlawless.github.io/lightstream/articled-md/member-application/)** |
+| **🏛️ PMA Charter ByLaws** | Governance Charter | **[View Document](https://danlawless.github.io/lightstream/articled-md/pma-charter-bylaws/)** |
+
+### ⚡ **Setup & Navigation Guides**
+- **👉 [Complete Setup Guide](SETUP-GUIDES.md)** - Technical setup instructions
+- **👉 [Master Navigation Index](NAVIGATION-INDEX.md)** - Cross-platform access guide
+
+### 🔗 **Sharing Your Spiritual Framework**
+- **🌍 For General Public**: Share the [beautiful website](https://danlawless.github.io/lightstream)
+- **👥 For Ministry Members**: Use the [searchable wiki](https://github.com/danlawless/lightstream/wiki) 
+- **📋 For Official Reference**: Link to [repository source](https://github.com/danlawless/lightstream)
+- **📧 Direct Document Sharing**: Use the direct document links above
 
 ---
 
